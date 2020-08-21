@@ -1,16 +1,10 @@
 @font-face {
    font-family: 'Quicksand-Light';
+   font-display: swap;
    src: url('Quicksand-Light/font.ttf');
 }
 @font-face {
-   font-family: 'OpenSans-Bold';
-   src: url('OpenSans-Bold/font.ttf');
-}
-@font-face {
-   font-family: 'OpenSans-Light';
-   src: url('OpenSans-Light/font.ttf');
-}
-@font-face {
-   font-family: 'OpenSans-Regular';
-   src: url('OpenSans-Regular/font.ttf');
+   font-family: 'Quicksand-Medium';
+   font-display: swap;
+   src: url('Quicksand-Medium/font.ttf');
 }
