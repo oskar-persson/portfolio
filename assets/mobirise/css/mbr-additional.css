@@ -1148,7 +1148,7 @@ img {
 .cid-sbAAVJN81w {
 @fullScreen: false;
 @fullWidth: false;
-@paddingTop: 5;
+@paddingTop: 7;
 @paddingBottom: 3;
 @textWidth: 10;
 @showTitle: true;
@@ -1191,7 +1191,7 @@ background-color: @bgColor;
 .cid-s8i3ikjzNU {
 @fullScreen: false;
 @fullWidth: false;
-@paddingTop: 7;
+@paddingTop: 8;
 @paddingBottom: 6;
 @textWidth: 6;
 @showTitle: true;
